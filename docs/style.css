@@ -70,7 +70,7 @@
     background-color: white;
     padding: 20px;
     margin-top: 20px;
-    height: 145%;
+    height: 155%;
  }
 
   /* Clear floats after the columns */
@@ -94,4 +94,20 @@
       width: 100%;
       padding: 0;
     }
+  }
+  
+  a:link {
+    color: lightgreen;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: palevioletred;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: green;
+    background-color: transparent;
+    text-decoration: underline;
   }
