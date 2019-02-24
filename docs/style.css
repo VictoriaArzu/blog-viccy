@@ -38,6 +38,11 @@
     width: 100%;
     padding: 20px;
   }
+
+  /* profile image */
+  .profileimg {
+    padding-inline-end: 5px;
+  }
   
   /* Add a card effect for articles */
   .card {
