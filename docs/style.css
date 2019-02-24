@@ -35,13 +35,20 @@
   /* image */
   .img {
     background-color: #aaa;
+    height: 110%;
     width: 100%;
     padding: 20px;
   }
 
+  /* image FIU */
+  .imgFIU {
+    width: 100px;
+    padding: 20px;
+    text-align-last: justify;
+  }
+
   /* profile image */
   .profileimg {
-    padding-inline-end: 5px;
   }
   
   /* Add a card effect for articles */
@@ -49,8 +56,23 @@
      background-color: white;
      padding: 20px;
      margin-top: 20px;
+     height:45%;
   }
   
+  .profilecard {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    height:110%;
+ }
+
+  .cardFIU {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    height: 145%;
+ }
+
   /* Clear floats after the columns */
   .row:after {
     content: "";
