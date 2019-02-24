@@ -6,19 +6,18 @@
   body {
     font-family: Arial;
     padding: 20px;
-    background: #f1f1f1;
+    background: lavenderblush;
   }
   
   /* Header */
   .header {
     padding: 30px;
     font-size: 40px;
-    font-style: Georgia;
+    font-family: "Times New Roman", Times, serif;
     text-align: center;
     background: white;
   }
   
-  /* Create two unequal columns that floats next to each other */
   /* Left column */
   .leftcolumn {   
     float: left;
@@ -30,6 +29,7 @@
     float: left;
     width: 25%;
     padding-left: 20px;
+    text-align: center;
   }
   
   /* image */
@@ -57,7 +57,7 @@
   .footer {
     padding: 20px;
     text-align: center;
-    background: #ddd;
+    background: lightcyan;
     margin-top: 20px;
   }
   
