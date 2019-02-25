@@ -12,3 +12,5 @@ default card template:
         <p>Some text about my day</p>
     </div>
 
+https://viccyoctopus.github.io/blog-viccy./
+
