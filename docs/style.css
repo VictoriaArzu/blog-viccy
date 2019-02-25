@@ -110,6 +110,8 @@
     }
   }
   
+   /* Link colors and decoration */
+
   a:link {
     color: lightgreen;
     background-color: transparent;
