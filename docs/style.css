@@ -34,7 +34,7 @@
   
   /* image */
   .img {
-    background-color: #aaa;
+    background-color:aliceblue;
     height: 110%;
     width: 100%;
     padding: 20px;
@@ -72,6 +72,20 @@
     margin-top: 20px;
     height: 160%;
  }
+
+ .popularpostscard {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  height:40%;
+}
+
+ .socialcard {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  height:42%;
+}
 
   /* Clear floats after the columns */
   .row:after {
