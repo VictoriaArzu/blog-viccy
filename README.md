@@ -14,3 +14,4 @@ default card template:
 
 https://viccyoctopus.github.io/blog-viccy./
 
+- adding videos in the card?
