@@ -62,7 +62,6 @@
     background-color: white;
     padding: 20px;
     margin-top: 20px;
-    height:110%;
  }
 
   .cardFIU {
@@ -75,14 +74,12 @@
   background-color: white;
   padding: 20px;
   margin-top: 20px;
-  height:40%;
 }
 
  .socialcard {
   background-color: white;
   padding: 20px;
   margin-top: 20px;
-  height:42%;
 }
 
   /* Clear floats after the columns */
