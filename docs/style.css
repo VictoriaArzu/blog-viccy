@@ -40,13 +40,6 @@
     padding: 20px;
   }
 
-  /* image FIU */
-  .imgFIU {
-    width: 100px;
-    padding: 20px;
-    text-align-last: justify;
-  }
-
   /* profile image */
   .profileimg {
   }
@@ -64,11 +57,6 @@
     margin-top: 20px;
  }
 
-  .cardFIU {
-    background-color: white;
-    padding: 20px;
-    margin-top: 20px;
- }
 
  .popularpostscard {
   background-color: white;
