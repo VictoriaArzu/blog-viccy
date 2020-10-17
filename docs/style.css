@@ -16,10 +16,23 @@ a {
     height: 100%; 
 }
 
+.right-column {
+    float: right;
+    width: 83%;
+    height: 100%;
+}
+
 .text-fpg {
     text-align: center;
     color: palevioletred;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.indeximg {
+    position: absolute;
+    bottom: 0px;
+    float: left;
+    
 }
 
 
