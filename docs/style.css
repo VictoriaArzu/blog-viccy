@@ -52,6 +52,7 @@ a {
     padding-left: 6%;
     padding-right: 6%;
     padding-bottom: 0px;
+    overflow: auto;
 }
 
 .para-about {
@@ -65,6 +66,12 @@ a {
 
 /* PODCAST PAGE */
 
+.right-column-pod {
+    float: right;
+    width: 83%;
+    height: 100%;
+    text-align: center;
+}
 
 
 /* GRAPHICS PAGE */
