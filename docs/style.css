@@ -70,6 +70,16 @@ a {
     float: right;
     width: 83%;
     height: 100%;
+}
+
+.text-pod {
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-bottom: 0px;
+    overflow: auto;
+}
+
+.pod-link {
     text-align: center;
 }
 
