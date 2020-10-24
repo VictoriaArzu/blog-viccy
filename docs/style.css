@@ -77,10 +77,12 @@ a {
     padding-right: 6%;
     padding-bottom: 0px;
     overflow: auto;
+    text-align: center;
 }
 
 .pod-link {
     text-align: center;
+    padding: 2%;
 }
 
 
