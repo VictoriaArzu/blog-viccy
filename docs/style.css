@@ -92,5 +92,10 @@ a {
 
 /* FEEDING SOUTH FLORIDA PAGE */
 
+.right-column-fsf {
+    float: right;
+    width: 83%;
+    height: 100%;
+}
 
 
